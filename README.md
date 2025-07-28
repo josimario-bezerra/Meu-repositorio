@@ -4,4 +4,4 @@
 
 1. Criar um repositório local e adicionar-lo no Github - remoto; [ ]
 
-Realizando alterações de testes para o nosso repositório.
+2. Realizando alterações de testes para o nosso repositório.
